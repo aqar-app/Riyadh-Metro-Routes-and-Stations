@@ -23,7 +23,7 @@ The network includes **85 stations**, strategically located to serve:
 
 ## File Contents
 
-The `metro_routes.json` file contains:
+The `riyadh_metro.json` file contains:
 - **Line Information**: Line ID, route color, and names (in Arabic and English).
 - **Stations**: Starting and ending stations for each line.
 - **Coordinates**: Geographical coordinates outlining the route of each metro line.
