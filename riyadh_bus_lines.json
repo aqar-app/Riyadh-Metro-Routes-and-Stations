@@ -1,0 +1,581 @@
+{
+    "bus": [
+        {
+            "routeNumber": 7,
+            "source": "Transportation Center",
+            "destination": "King Saud University",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 8,
+            "source": "Al Batha",
+            "destination": "As Sahafa",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 9,
+            "source": "Transportation Center",
+            "destination": "Northern Vegetable Market",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 10,
+            "source": "Al Batha",
+            "destination": "Al-Hamra",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 11,
+            "source": "Ar Rabi Terminal",
+            "destination": "Al Kharj Terminal",
+            "routeColor": "#98BB56",
+            "isBRT": true
+        },
+        {
+            "routeNumber": 12,
+            "source": "Al-Suwaidi Al-Gharbi",
+            "destination": "Ali Ibn Abi Talib Terminal",
+            "routeColor": "#98BB56",
+            "isBRT": true
+        },
+        {
+            "routeNumber": 13,
+            "source": "Khalid Bin Alwaleed Terminal",
+            "destination": "Ar-Rawabi",
+            "routeColor": "#98BB56",
+            "isBRT": true
+        },
+        {
+            "routeNumber": 16,
+            "source": "Al Batha",
+            "destination": "Tuwaiq",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 17,
+            "source": "Al Batha",
+            "destination": "New Industrial City",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 150,
+            "source": "Al-Wisham",
+            "destination": "National Guard Hospital",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 151,
+            "source": "Ali Ibn Abi Talib Terminal",
+            "destination": "Al-Faiha",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 160,
+            "source": "Al Batha",
+            "destination": "Al-Masani",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 170,
+            "source": "Ad-Dirah",
+            "destination": "Al-Suwaidi Al-Gharbi",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 180,
+            "source": "Qasr Al Hokm",
+            "destination": "Olaishah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 181,
+            "source": "Al-Sinaiyah",
+            "destination": "North Al-Mathar",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 230,
+            "source": "STC Station",
+            "destination": "Al Malqa",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 231,
+            "source": "Riyadh Exhibition Center",
+            "destination": "SAB Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 250,
+            "source": "Abu Dhabi Square",
+            "destination": "National Guard Hospital",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 280,
+            "source": "Abu Dhabi Square",
+            "destination": "Olaishah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 341,
+            "source": "King Saud University",
+            "destination": "Al-Andalus",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 342,
+            "source": "KAFD",
+            "destination": "Al Yarmuk Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 350,
+            "source": "Al Awwal Park",
+            "destination": "Al-Faiha",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 430,
+            "source": "Khalid Bin Alwaleed Terminal",
+            "destination": "Al Awwal Park",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 540,
+            "source": "Hassan Bin Thabit Station",
+            "destination": "Al Khaleej Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 660,
+            "source": "Transportation Center",
+            "destination": "Dirab",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 680,
+            "source": "Transportation Center",
+            "destination": "Irqah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 730,
+            "source": "West Al-Uraija ",
+            "destination": "Ar Rabi Terminal",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 910,
+            "source": "Manfouhah Station",
+            "destination": "Ad-Dirah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 911,
+            "source": "Utayqah",
+            "destination": "Skirinah Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 912,
+            "source": "Ad-Dirah",
+            "destination": "Skirinah Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 913,
+            "source": "Al Batha",
+            "destination": "Olaishah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 914,
+            "source": "Al Iman Hospital Station",
+            "destination": "Al-Mansurah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 915,
+            "source": "Al Hilla Station",
+            "destination": "Al-Khalidiah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 916,
+            "source": "Al-Muraba",
+            "destination": "Al-Hada",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 920,
+            "source": "Al Muorabba Station",
+            "destination": "Ad Dirah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 921,
+            "source": "Al Muorabba Station",
+            "destination": "Al-Mathar",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 922,
+            "source": "King Abdulaziz Hospital",
+            "destination": "Az Zahra",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 923,
+            "source": "GOSI Station",
+            "destination": "Al Wizarat",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 925,
+            "source": "Alinma Bank Station",
+            "destination": "West Umm Al-Hamam",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 926,
+            "source": "Alinma Bank Station",
+            "destination": "King Fahd Library Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 927,
+            "source": "As Sulimaniyah Station",
+            "destination": "Al Wourod",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 928,
+            "source": "STC Station",
+            "destination": "King Fahad District",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 930,
+            "source": "KAFD",
+            "destination": "Al Aqiq",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 931,
+            "source": "Dr. Sulaiman Al Habib Station",
+            "destination": "Al Malqa",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 932,
+            "source": "Ar Rabi Terminal",
+            "destination": "Al-Yasmeen",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 933,
+            "source": "An Nuzhah Station",
+            "destination": "At-Taawun",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 934,
+            "source": "Riyadh Exhibition Center",
+            "destination": "Al Izdihar",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 935,
+            "source": "SABIC Station",
+            "destination": "Al Munisiyah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 937,
+            "source": "King Salman Oasis Station",
+            "destination": "KSU Female Colleges",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 938,
+            "source": "King Saud University Station",
+            "destination": "KSU Male Colleges",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 940,
+            "source": "Khurais Rd. Station",
+            "destination": "Ar-Rawdah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 941,
+            "source": "Khalid Bin Alwaleed Terminal",
+            "destination": "Al-Quds",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 942,
+            "source": "Al Hamra Station",
+            "destination": "Ar-Rawdah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 943,
+            "source": "Al Hamra Station",
+            "destination": "Ishbiliyah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 944,
+            "source": "Al Khaleej Station",
+            "destination": "Al Andalus Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 945,
+            "source": "Ishbiliyah Station",
+            "destination": "An-Nahdah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 946,
+            "source": "King Fahad Sport City",
+            "destination": "Al-Nadwah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 947,
+            "source": "Granadia Station",
+            "destination": "Al-Muanisiyah",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 948,
+            "source": "Al Yarmuk Station",
+            "destination": "Al Yarmuk",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 951,
+            "source": "Harun Ar Rashid Station",
+            "destination": "Ar-Rayan",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 952,
+            "source": "As Salam Station",
+            "destination": "Harun Ar Rashid Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 953,
+            "source": "Ar-Rawabi",
+            "destination": "As-Sulai",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 960,
+            "source": "Ash-Shifa",
+            "destination": "Bader District",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 961,
+            "source": "Ash-Shifa",
+            "destination": "Ash-Shifa",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 962,
+            "source": "Ad Dar Al Baida Station",
+            "destination": "Al Kharj Terminal",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 963,
+            "source": "Ali Ibn Abi Talib Terminal",
+            "destination": "Al Aziziah Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 964,
+            "source": "Al Kharj Terminal",
+            "destination": "Al-Iskan",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 965,
+            "source": "Al Kharj Terminal",
+            "destination": "New Industrial City",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 966,
+            "source": "Al Kharj Terminal",
+            "destination": "New Industrial City",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 970,
+            "source": "Dahrat Al-Badeah",
+            "destination": "Western Ring",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 980,
+            "source": "Ad Douh Station",
+            "destination": "Jeddah Rd. Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 981,
+            "source": "Al-Suwaidi Al-Gharbi",
+            "destination": "Jeddah Rd. Station",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 982,
+            "source": "Ad Douh Station",
+            "destination": "West Al-Uraija",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 983,
+            "source": "Dahrat Al-Badeah",
+            "destination": "West Al-Uraija ",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        },
+        {
+            "routeNumber": 984,
+            "source": "Laban",
+            "destination": "Daharat Laban",
+            "routeColor": "#98BB56",
+            "isBRT": false
+        }
+    ],
+    "metro": [
+        {
+            "routeNumber": 1,
+            "lineName": "Blue line",
+            "source": "SAB Bank",
+            "destination": "Ad Dar Al Baida",
+            "routeColor": "#00ade5"
+        },
+        {
+            "routeNumber": 2,
+            "lineName": "Red line",
+            "source": "King Saud University",
+            "destination": "King Fahad Sport City",
+            "routeColor": "#f0493a"
+        },
+        {
+            "routeNumber": 3,
+            "lineName": "Orange line",
+            "source": "Jeddah Road",
+            "destination": "Khashm Al An",
+            "routeColor": "#f68d39"
+        },
+        {
+            "routeNumber": 4,
+            "lineName": "Yellow line",
+            "source": "Airport T1-2",
+            "destination": "KAFD",
+            "routeColor": "#ffd105"
+        },
+        {
+            "routeNumber": 5,
+            "lineName": "Green line",
+            "source": "Ministry of Education",
+            "destination": "National Museum",
+            "routeColor": "#43b649"
+        },
+        {
+            "routeNumber": 6,
+            "lineName": "Purple line",
+            "source": "KAFD",
+            "destination": "An Naseem",
+            "routeColor": "#984c9d"
+        }
+    ],
+    "drt": [
+        {
+            "routeNumber": 0,
+            "source": "",
+            "destination": "",
+            "routeColor": "#7AD260"
+        }
+    ]
+}
