@@ -1,6 +1,6 @@
 # Riyadh Metro Routes and Stations
 
-This repository contains JSON data for the **Riyadh Metro Project**, a transformative urban transport initiative aimed at revolutionizing public transportation in Riyadh, Saudi Arabia.
+This repository contains JSON data for the **Riyadh Metro Project** and the **Riyadh Bus Network**, a transformative urban transport initiative aimed at revolutionizing public transportation in Riyadh, Saudi Arabia.
 
 ## Overview
 
@@ -28,7 +28,12 @@ The `riyadh_metro.json` file contains:
 - **Stations**: Starting and ending stations for each line.
 - **Coordinates**: Geographical coordinates outlining the route of each metro line.
 
+The `riyadh_bus_lines.json` and `riyadh_bus_stops.json` files contain:
+- **Bus Lines**: Route number, source, and destination.
+- **Bus Stops**: Locations of bus stops along each route, and names in Arabic and English.
+
 ## Acknowledgments
 This data was generated from 
 The data provided in this repository was originally generated from [Riyadh Bus](https://www.riyadhbus.sa/ "Riyadh Bus"). 
 All rights and credits for the source data belong to the Riyadh Bus website. This repository is for informational and development purposes only and is not affiliated with or endorsed by Riyadh Bus or its associated entities.
+
